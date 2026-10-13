@@ -1,0 +1,27 @@
+# Operating system and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Private source evidence and working material
+originals/
+backups/
+private/
+local-notes/
+*_Private_Audit.md
+
+# Provisioning and credential-bearing project outputs
+*.ppkg
+*.icdproj*
+*.pfx
+*.p12
+*.key
+*.pem
+*.csr
+customizations.xml
+Customizations.xml
+settingsmetadata.xml
+SettingsMetadata.xml
+templatestate.data
+TemplateState.data
