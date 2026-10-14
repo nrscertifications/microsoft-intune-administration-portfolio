@@ -1,6 +1,6 @@
 # Microsoft Intune Administration Portfolio
 
-This repository documents my hands-on Microsoft Intune, Microsoft Entra ID, Windows 11, and Windows Server administration in non-production lab environments. The work covers device registration, dynamic device groups, enrollment readiness, Managed Google Play integration, enrollment restrictions, Group Policy troubleshooting, provisioning-package creation, and policy-set administration.
+This repository documents my hands-on Microsoft Intune administration in a non-production lab environment. I worked with Microsoft Entra ID, Windows 11, and Windows Server to support device registration, enrollment preparation, configuration, and troubleshooting. The project covers dynamic device groups, enrollment restrictions, Managed Google Play integration, Group Policy troubleshooting, Windows provisioning packages, and Intune policy-set administration.
 
 Each workstream explains the configuration, verification, and troubleshooting performed, with selected screenshots directly beneath the relevant technical phase. The complete lab screenshot archive is available for deeper review.
 
